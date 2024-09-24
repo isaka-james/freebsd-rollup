@@ -41,7 +41,7 @@ Here's the kicker: **you don’t need to run this every time**. Just run it **on
 
 1. Clone this repo or download the script:
    ```bash
-   git clone https://github.com/yourusername/freebsd-rollup-fix.git
+   git clone https://github.com/yourusername/freebsd-rollup.git
    ```
 
 2. Navigate to the project folder and run the script:
